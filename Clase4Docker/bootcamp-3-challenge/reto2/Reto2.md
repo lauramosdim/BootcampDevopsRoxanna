@@ -7,4 +7,4 @@
 3. no se puede borrar la imagen `mariadb` mientras el contenedor `bbdd` está creado.
    ![](./images/reto2Paso3.png)
 
-4. <ul><li>- [x] <a href=https://github.com/lauramosdim/BootcampDevopsRoxanna/blob/master/Clase4Docker/bootcamp-3-challenge/reto2/crearContenedorbbdd target=_blank>Script</a></li></ul>
+4. <ul><li>- [x] <a href=https://github.com/lauramosdim/BootcampDevopsRoxanna/blob/master/Clase4Docker/bootcamp-3-challenge/reto2/crearContenedorbbdd.sh target=_blank>Script</a></li></ul>
